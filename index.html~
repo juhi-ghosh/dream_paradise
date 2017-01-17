@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -6,9 +6,9 @@
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Dream Paradise - A broking site</title>
-<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.dropotron-1.0.js"></script>
 </head>
 <body>
@@ -31,7 +31,7 @@
 					<li> <a href="blog2.html">By using these easy and inexpensive tips, you can expect an offer in no time.</a> </li>
 				</ul>
 			</li>
-			<li><a href="#"><span>Photos</span></a></li>
+			<li><a href="photos.html"><span>Photos</span></a></li>
 			<li><span>legal advice</span>
 				<ul>
 					<li class="first"> <a href="tax.html">Tax Implication</a> </li>
@@ -41,7 +41,7 @@
 			<li><a href="contact.html"><span>Contact</span></a></li>
 			<li><a href="signin.html"><span>Sign In with Google Account</span></a></li>
 		</ul>
-		<script type="text/javascript">
+		<script type="text/javascript" src="jquery.dropotron-1.0.js">
 			$('#menu').dropotron();
 		</script>
 	</div>
@@ -55,32 +55,24 @@
 					<p class="meta">Posted by <a href="#">Juhi</a> on Jan 16, 2017
 						&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
 					<div class="entry">
-					<img src="images/download1.jpg" width="680" height="300" alt="" />
+						<p> <b>find joy</b></p>
+						<p>we wanted to make you buying a home joyful. So we got this whole new approach. now, you not only find a home, you find joy. </p>
 					</div>
 				</div>
 				<div class="post">
 				<div class="entry">
-				<img src="images/download5.jpg" width="680" height="300" alt="" />
-				</div>
+						<p> <b> talk to me</b></p>
+						<p>your personal advisor. get help to find a nice home all the way from start to finish.</p>
+					</div>
 					
 				</div>
 				<div class="post">
 				<div class="entry">
-				<img src="images/download3.jpg" width="680" height="300" alt="" />
-				</div>
-					
-				</div>
-				<div class="post">
-				<div class="entry">
-				<img src="images/download4.jpg" width="680" height="500" alt="" />
-				</div>
-					
-				</div>
-
-				<div class="post">
-				<div class="entry">
-				<img src="images/download2.jpg" width="680" height="300" alt="" />
-				</div>
+				<p> <b> well Priced ... Only high scoring matches... </b></p>
+						<p> we score sellers impartially because we don't charge for listings </p>
+						<p> so when u are looking for your perfect home, you get nothing but the best! </p>
+					</div>
+				
 				</div>
 				</div>
 				<div style="clear: both;">&nbsp;</div>

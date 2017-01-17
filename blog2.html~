@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -6,9 +6,9 @@
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Dream Paradise - A broking site</title>
-<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.dropotron-1.0.js"></script>
 </head>
 <body>
@@ -31,7 +31,7 @@
 					<li> <a href="blog2.html">By using these easy and inexpensive tips, you can expect an offer in no time.</a> </li>
 				</ul>
 			</li>
-			<li><a href="#"><span>Photos</span></a></li>
+			<li><a href="photos.html"><span>Photos</span></a></li>
 			<li><span>legal advice</span>
 				<ul>
 					<li class="first"> <a href="tax.html">Tax Implication</a> </li>
@@ -55,32 +55,55 @@
 					<p class="meta">Posted by <a href="#">Juhi</a> on Jan 16, 2017
 						&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
 					<div class="entry">
-					<img src="images/download1.jpg" width="680" height="300" alt="" />
-					</div>
+						<p>
+						1. Don'T Leave out personal information. Pictures. Degrees. Names. Initials. Monograms.
+(Please! Protect your family's privacy and take precautions by removing, as best you can, anything that gives a clue to who lives there.)
+						</p>
+						</div>
 				</div>
 				<div class="post">
 				<div class="entry">
-				<img src="images/download5.jpg" width="680" height="300" alt="" />
-				</div>
+						<p>
+						2. Don'T Cover that focal point, great view, or feature.
+						</p></div>
 					
 				</div>
 				<div class="post">
 				<div class="entry">
-				<img src="images/download3.jpg" width="680" height="300" alt="" />
-				</div>
-					
-				</div>
-				<div class="post">
-				<div class="entry">
-				<img src="images/download4.jpg" width="680" height="500" alt="" />
-				</div>
-					
-				</div>
+					<p>
+						3. Don'T Leave the litter box or pet food dishes out, or better yet, leave your pets in the home while showing.
 
+						</p>
+					</div>
+				
+				</div>
 				<div class="post">
 				<div class="entry">
-				<img src="images/download2.jpg" width="680" height="300" alt="" />
+					<p>
+						4. Don'T Leave the wallpaper and borders, bright paint, and outdated carpet for the new buyers to change, and offer them a "re-decorating/flooring allowance" that they can receive at closing.
+						</p>
+					</div>
+				
 				</div>
+				<div class="post">
+				<div class="entry">
+					<p>
+						5. Don'T Cram everything in the closets so the rooms look neat.
+6. Expect the buyers to use their imaginations to see past your clutter. Or move out and leave it totally empty.
+
+						</p>
+					</div>
+				
+				</div>
+				
+				<div class="post">
+				<div class="entry">
+					<p>
+						6. Don'T Expect the buyers to use their imaginations to see past your clutter. Or move out and leave it totally empty.
+
+						</p>
+					</div>
+				
 				</div>
 				</div>
 				<div style="clear: both;">&nbsp;</div>

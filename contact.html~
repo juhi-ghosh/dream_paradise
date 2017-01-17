@@ -6,9 +6,9 @@
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Dream Paradise - A broking site</title>
-<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.dropotron-1.0.js"></script>
 </head>
 <body>
@@ -31,14 +31,14 @@
 					<li> <a href="blog2.html">By using these easy and inexpensive tips, you can expect an offer in no time.</a> </li>
 				</ul>
 			</li>
-			<li><a href="#"><span>Photos</span></a></li>
+			<li><a href="photos.html"><span>Photos</span></a></li>
 			<li><span>legal advice</span>
 				<ul>
 					<li class="first"> <a href="tax.html">Tax Implication</a> </li>
 					<li class="first"> <a href="docs.html">Documents</a> </li>
 				</ul>
 			</li>
-			<li><a href="contact.html"><span>Contact</span></a></li>
+			<li><a href="#"><span>Contact</span></a></li>
 			<li><a href="signin.html"><span>Sign In with Google Account</span></a></li>
 		</ul>
 		<script type="text/javascript">
@@ -55,34 +55,61 @@
 					<p class="meta">Posted by <a href="#">Juhi</a> on Jan 16, 2017
 						&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
 					<div class="entry">
-					<img src="images/download1.jpg" width="680" height="300" alt="" />
+						<p><b> Corporate Office Address with Contact Number</b></p>
+						<p> Times Center (Digital Content Production Facility) FC – 6, (Ground Floor), Sector 16 A, Film City, Noida – 201301</p>
 					</div>
 				</div>
+				
 				<div class="post">
-				<div class="entry">
-				<img src="images/download5.jpg" width="680" height="300" alt="" />
+						<div class="entry">
+						<p><b> Ahmedabad</b></p>
+						<p> Mr. Harish Asnani (Zonal Business Head)
+							Times Business Solutions – A division of Times Internet Limited
+							magicbricks.com, 103, Time Square, Opp Iscon Arcade,
+							CG Road, Ahmedabad – 380009
+							Phone Number- 9825100781
+							Email Id Support- harish.asnani@timesgroup.com</p>
+					</div>
 				</div>
-					
-				</div>
+				
 				<div class="post">
-				<div class="entry">
-				<img src="images/download3.jpg" width="680" height="300" alt="" />
+					<div class="entry">
+						<p><b> Bangalore</b></p>
+						<p> Mr. Mudassir Khan (Zonal Business Head)
+								Times Business Solutions – A division of Times Internet Limited
+								magicbricks.com, 17 du park trinity
+								1st floor MG Road, Bangalore – 560001
+								Phone Number- 09972222884
+								Email Address- mudassir.khan@timesgroup.com</p>
+					</div>
 				</div>
-					
-				</div>
+				
 				<div class="post">
-				<div class="entry">
-				<img src="images/download4.jpg" width="680" height="500" alt="" />
+					<div class="entry">
+						<p><b> Baroda</b></p>
+						<p> Mr. Karan Harpale (Account Manager – Baroda)
+							Times Business Solutions – A division of Times Internet Limited
+							magicbricks.com, The Times Of India Building,
+							49, Punit Nagar, Opp. Vaccine Ground, Old Padra Road,
+							Vadodara, Gujarat – 390020
+							Contact Nuber- 09825979130
+							Email Id- karan.harpale@timesgroup.com</p>
+					</div>
 				</div>
-					
-				</div>
-
+				
 				<div class="post">
-				<div class="entry">
-				<img src="images/download2.jpg" width="680" height="300" alt="" />
+					<div class="entry">
+						<p><b>Chennai</b></p>
+						<p> Mr. Digranjan (Zonal Manager)
+							Times Business Solutions – A division of Times Internet Limited
+							magicbricks.com, New No.174, Old No.304,
+							Suprageet Complex, 3rd Floor,
+							T T K Road, Alwarpet, Chennai-600018
+							Contact Number- 09962563776
+							Email Id- digranjan.gantayat@timesgroup.com</p>
+					</div>
 				</div>
-				</div>
-				</div>
+		</div>
 				<div style="clear: both;">&nbsp;</div>
 			</div>
 		</div>

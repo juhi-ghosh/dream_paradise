@@ -6,9 +6,9 @@
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Dream Paradise - A broking site</title>
-<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css" />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.dropotron-1.0.js"></script>
 </head>
 <body>
@@ -54,31 +54,22 @@
 					<h2 class="title"><a href="#">Welcome to dream paradise</a></h2>
 					<p class="meta">Posted by <a href="#">Juhi</a> on Jan 16, 2017
 						&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
-					<div class="entry">
-						<p> <b> 1. What documents and formalities are required while buying property?</b></p>
-						<p>  Documents required while buying property are Identity Proof like Voters’ ID Card, Passport, Driving License, Ration Card and Pan Card. Be careful of the Sale Deed/Agreement and also check that the complete property chain is mentioned in the Deed. </p>
-					</div>
 				</div>
 				
-				<div class="post">
-				<div class="entry">
-				<p> <b> 2. Things you should check at the time of signing the agreement?</b></p>
-						<p> Here are the important things to check before you sign the agreement with the developer:
+				<div style="clear:both; font-size: 2em;"> <p>Hi, My Name is Juhi Ghosh</p>&nbsp;</div>
+				<p>I am a Software Engineer, doing Masters in Computer Science from IIIT Hyderabad, India.<br/>
+				I like to develop systems softwares that deals with core of any device internals and enhances its attributes to incorporate change in platforms. </p>
 
-						<ul>
-						<li><p> l Specific apartment allotted, tower number and size</p>
-						</li>
-						<li><p>Details of area including super area, covered area and carpet area Costing</p>
-						</li>
-						<li><p>Date of possession, penalty in case of delay</p></li>
-						</ul>
+				<p> My hobbies are,
+				<ul style="color: #7a7a52;">
+				<li>listening to music </li>
+				<li> travelling to places </li>
+				<li> exploring new food delicacies </li>
+				<li> dancing </li>
+				<li> reading stories </li>
+				</ul>
 
-						</p>
-					</div>
-				
-				</div>
-				</div>
-				<div style="clear: both;">&nbsp;</div>
+				</p>
 			</div>
 		</div>
 		<!-- end #content -->
